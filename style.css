@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+:root {
+    --primary-font: 'COCOGOOSE', sans-serif;
+    --secondary-font: 'Lato', sans-serif;
+    --orange: #ff5a00;
+    --backgound-black: #272a31;
+    --backgound-white: #f5f5f5;
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--secondary-font);
+    font-size: 16px;
+    line-height: 2.0;
+}
+a {
+    text-decoration: none;
+    color: var(--backgound-white);
+}
+ ul {
+    list-style: none;
+}
+.first-bar {
+    background-color: var(--backgound-black);
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.first-bar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 10px;
+    align-items: center;
+}
+.first-bar ul a {
+    font-family : var(--secondary-font);
+    list-style: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--backgound-white);
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.header-sec{
+    background-color: var(--backgound-black);
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    background-image: url();
+}
