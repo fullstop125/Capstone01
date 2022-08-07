@@ -1,62 +1,33 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# capstone project
 
-> Description the project.
-
+> In this capstone project I managed to build the website based on an online website for a conference. using the provided design guidelines to create the website, I personalized the content.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JAVASCRIPT
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://fullstop125.github.io/my-Capstone-Project/)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
+[Live Video Link](https://www.loom.com/share/c9cc966c717d47b6926e8fb40df409a1)
 ## Authors
 
-👤 **Author1**
+👤 **MOMANYI HASSAN**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@fullstop125](https://github.com/fullstop125)
+- Twitter: [@moseshassany](https://twitter.com/moseshassany)
+- LinkedIn: [momanyihassan](https://linkedin.com/in/momanyi-hassan-32a489180/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/fullstop125/my-Capstone-Project/issues).
 
 ## Show your support
 
@@ -64,9 +35,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thank you to the design owner for the design guidelines who is Cindy Shin in Behance.
 
 ## 📝 License
 
