@@ -10,11 +10,12 @@
 - CSS
 - JAVASCRIPT
 
-## Live Demo 
+## Live Demo
 
 [Live Demo Link](https://fullstop125.github.io/my-Capstone-Project/)
 
 [Live Video Link](https://www.loom.com/share/c9cc966c717d47b6926e8fb40df409a1)
+
 ## Authors
 
 👤 **MOMANYI HASSAN**
